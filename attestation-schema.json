@@ -1,0 +1,21 @@
+{
+  "attestation_schema": {
+    "chamber_of_commerce_kvk_nummer": "KvK-nummer",
+    "chamber_of_commerce_rechtsvorm": "Rechtsvorm", 
+    "chamber_of_commerce_oprichtings_datum": "Oprichtingsdatum",
+    "chamber_of_commerce_statutairenaam": "Statutairenaam",
+    "chamber_of_commerce_handelsnaam": "Handelsnaam",
+    "chamber_of_commerce_bezoekadres": "Bezoekadres",
+    "chamber_of_commerce_vestigingsnummer": "Vestigingsnummer",
+    "bank_iban": "IBAN",
+    "tax_authority_btw_nummer": "BTW-nummer",
+    "contact_emailadres": "Emailadres",
+    "contact_telefoonnummer": "Telefoonnummer",
+    "contact_contactpersoon": "Contactpersoon",
+    "financial_jaarrekening": "Jaarrekening",
+    "financial_verzekering": "Verzekering",
+    "certificates_mbk_verklaring": "MKB-verklaring",
+    "certificates_de_minimis_verklaring": "De-minimis verklaring",
+    "certificates_vergunning": "Vergunning"
+  }
+}
