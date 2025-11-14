@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 import dotenv from 'dotenv'
-import { RVOAgentAIAutonomous } from "./agent-ai-autonomous"
+import { RVOAgentAIAutonomous } from "./agent-ai-autonomous.js"
 
 // Load environment variables from .env file
 dotenv.config()
